@@ -4,7 +4,13 @@
   "info": {
     "title": "Default Team"
   },
-  "siteConfig": {},
+  "siteConfig": {
+    "layout": {
+      "search": {
+        "position": "sidebar"
+      }
+    }
+  },
   "navigation": {
     "routes": {
       "/": {
